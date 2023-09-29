@@ -1,0 +1,2 @@
+alias,aws-account,access_key_id,secret_access_key,username,password,login-url,groups,path,arn
+seaworld-iep,292513324666,AKIAJVNPJVK5YMV5G27A,yBu9dCKuDsuR9TH0YurLow9SbTr2mPm8MuTmN4vm,demetrius.patterson@coca-cola.com,xNwtNEqTIcMg,https://seaworld-iep.signin.aws.amazon.com/console,PowerDeveloper,/,arn:aws:iam::292513324666:user/demetrius.patterson@coca-cola.com
